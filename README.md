@@ -1,1 +1,1 @@
-# fianl-mob-app-activities
+# final-mob-app-activities
